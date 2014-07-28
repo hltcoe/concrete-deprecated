@@ -5,6 +5,11 @@ See LICENSE in the project root directory.
 Concrete
 ========
 
+This repository has been split up into smaller, language-based repositories:
+* [Concrete Thrift files](https://github.com/hltcoe/concrete-thrift)
+* [Concrete Java library](https://github.com/hltcoe/concrete-java)
+* [Concrete Python library](https://github.com/hltcoe/concrete-python)
+
 Introduction
 ------------
 
@@ -21,4 +26,5 @@ Concrete requires the following:
 * [Apache Thrift](http://thrift.apache.org/)
 
 Language-specific packages have various additional requirements.
-Consult the README.md for the language of your choice.
+Consult the README.md for the language of your choice at their
+particular web pages.
